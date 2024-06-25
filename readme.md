@@ -1,6 +1,6 @@
-# Wanderlust
+# DreamVillas
 
-Wanderlust is a travel platform that allows users to explore and share their favourite destinations. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and incorporates various technologies for features like image upload, user authentication, and interactive maps.
+DreamVillas is a travel platform that allows users to explore and share their favourite destinations. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and incorporates various technologies for features like image upload, user authentication, and interactive maps.
 
 ## Technologies Used
 
@@ -8,7 +8,7 @@ Wanderlust is a travel platform that allows users to explore and share their fav
 - **Express.js**
 - **MongoDB**
 - **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
-- **Multer** for image upload
+- **Multer** for uploading image files
 - **Cloudinary** for image storage
 - **Passport.js** for authentication
 - **Bootstrap** for a sleek and responsive design
@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 2. Install dependencies:
 
     ```bash
-    cd DreamVillas
+    cd DreamVillas-master
     npm install
 
 3. Configure environment variables:
@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
     ```bash
     npm start
 
-  Visit http://localhost:8080 in your browser to explore Wanderlust locally.
+  Visit http://localhost:8080 in your browser to explore DreamVillas locally.
 
 ## Contribution
 Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated!
