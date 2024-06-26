@@ -50,5 +50,3 @@ To run this project locally, follow these steps:
 
   Visit http://localhost:8080 in your browser to explore DreamVillas locally.
 
-## Contribution
-Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated!
